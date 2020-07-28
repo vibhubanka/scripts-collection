@@ -20,7 +20,7 @@ After adding alias, reload the rc file using source.
 source path/to/rc_file
 ```
 
-Go the git project where you want to create a zip for diff.
+Go the git project where you want to execute the script.
 ```bash
 cd ~/path/to/project
 ```
